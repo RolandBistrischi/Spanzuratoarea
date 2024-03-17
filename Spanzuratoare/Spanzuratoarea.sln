@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spanzuratoarea", "tema1\Spanzuratoarea.csproj", "{D8CA0282-DA4B-4E90-9D3B-2E5FD7C0899F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8CA0282-DA4B-4E90-9D3B-2E5FD7C0899F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CA0282-DA4B-4E90-9D3B-2E5FD7C0899F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CA0282-DA4B-4E90-9D3B-2E5FD7C0899F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CA0282-DA4B-4E90-9D3B-2E5FD7C0899F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7221666-2276-400E-A7F1-059834C35F39}
+	EndGlobalSection
+EndGlobal
